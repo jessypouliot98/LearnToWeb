@@ -1,4 +1,7 @@
 # Lesson - 01
+## HTML Basics
+
+### Tasks:
 
 1) create an html file called index.html
 2) add a title and a paragraph
