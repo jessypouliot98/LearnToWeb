@@ -1,6 +1,6 @@
 # Lesson - 01
 
-1) create a html file called index.html
+1) create an html file called index.html
 2) add a title and a paragraph
 3) add an image
 4) link a css file to the document
