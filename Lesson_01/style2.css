@@ -1,0 +1,29 @@
+h1 {
+  font-size: 150px;
+}
+
+section {
+  background: #E3E3E3;
+  margin-bottom: 30px;
+  padding: 20px 40px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.my-section {
+  background-color: rebeccapurple;
+}
+
+#section-1 {
+  text-transform: uppercase;
+}
+
+.mon {
+  background-color: red;
+}
+
+.nom {
+  color: blue;
+}
