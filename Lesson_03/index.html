@@ -1,3 +1,11 @@
+<!--
+1) Add a script tag to you Html document
+2) print "Hello World" in the console
+3) Add a button that prints "Hello World" on click
+4) Add a text input and update the document with the input's value on submit
+-->
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,8 +13,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <script src="script.js" defer></script>
 </head>
-<body>
-  
+<body style="height: 500vh;">
+
+  <h1>JavaScript</h1>
+
+  <script>
+    console.log("Hello from script tag")
+  </script>
+
+  <button id="button-1">My button</button>
+  <button id="button-2">Run calculate number</button>
+
+  <form id="form" style="background-color: beige;">
+    <h2>My form</h2>
+    <input type="text" name="message" />
+    <button>Submit</button>
+  </form>
+
+  <div id="insertion-zone" style="background-color: gray;">
+    
+  </div>
+
 </body>
 </html>
