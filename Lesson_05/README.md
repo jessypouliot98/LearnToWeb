@@ -1,10 +1,22 @@
 # Lesson - 05
-## Node.js
+## CLI Basics
 
 ### Tasks:
 
-1) Install [Node.js LTS](https://nodejs.org/en/)
-2) Start a new node project
-3) Create a new script file, let's name it "main.js"
-4) Print "Hello World" in the console
-5) Install a dependency and import it
+- Git CLI
+  1) Clone a repo
+  2) Stage some changes
+  3) Commit some changes
+  4) Push some changes
+- Terminal (Unix - install [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) if you use Windows)
+  1) Change directories
+  2) Create a file
+  3) Edit a file
+  4) Copy a file
+  5) Move a file
+  6) Rename a file
+  7) View files in a directory
+  8) View content in a file
+  9) Delete a file
+  10) Create a directory
+  11) Delete a directory

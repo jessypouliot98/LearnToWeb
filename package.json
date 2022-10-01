@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "lesson:04": "nodemon ./Lesson_04/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
